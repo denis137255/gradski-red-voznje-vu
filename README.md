@@ -13,4 +13,4 @@ Jednostavna aplikacija koju sam napravio za školski projekt koristeći MIT app 
 Naravno aplikacije napravljene putem Android Studia je bolja opcija, ali njegova kompleksnost me je previše zbunjivala da ga naučim dovoljno da dovršim ovaj projekt koristeći njega, pa sam koristio ono u čemu imam predznanja.
 Nisam planirao objaviti ovo, ali gledajući možda kako ovo može privući malu pozornost, odlučio sam se objaviti to ovdje.
 
-Malo za zbrkano za snaći se jer nisam mislio da će itko drugi gledati moj kod, tako da se unaprijed ispričavam zbog zbrke.
+Malo je zbrkano za snaći se jer nisam mislio da će itko drugi gledati moj kod, tako da se unaprijed ispričavam zbog toga.
